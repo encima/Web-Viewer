@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Web Viewer</string>
+    <string name="urlChoice">Choose a URL</string>
+    <string-array name="url_chooser">
+    	<item>www.fmylife.com</item>
+    	<item>www.mylifeisaverage.com</item>
+    	<item>www.textsfromlastnight.com</item>
+    	<item>www.givesmehope.com</item>
+    	<item>www.sixbillionsecrets.com</item>
+    </string-array>
+</resources>
